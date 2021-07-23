@@ -1,0 +1,25 @@
+{
+  "name": "netflixclisql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBilsborrow/mysqlnodecli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBilsborrow/mysqlnodecli/issues"
+  },
+  "homepage": "https://github.com/NickBilsborrow/mysqlnodecli#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.2.5",
+    "yargs": "^17.0.1"
+  }
+}
